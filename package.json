@@ -1,0 +1,16 @@
+{
+  "name": "interest-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator for compound & simple interest",
+  "main": "calculator.ts",
+  "scripts": {
+    "start": "ts-node-dev calculator.ts"
+  },
+  "author": "Hershraj",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "@types/node": "^13.9.0",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.8.3"
+  }
+}
